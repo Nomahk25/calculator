@@ -7,3 +7,4 @@ It supports basic operations: **Addition, Subtraction, Multiplication, and Divis
 
 ```bash
 python calculator.py
+```
