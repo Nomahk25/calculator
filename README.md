@@ -43,7 +43,7 @@ The image will be resized and blurred automatically.
 
 Run the calculator with:
 ```
-python pink_calculator.py
+python calculator.py
 ```
 
 ## How to Use
